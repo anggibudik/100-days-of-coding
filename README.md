@@ -1,0 +1,2 @@
+# 100-days-of-code_anggibk
+ Repo of my personal records for "100 days coding" challenge (although I might finished it less than 100 days). This challenge starts from 13th of November 2020 and based on Udemy course titled "100 Days of Code - The Complete Python Pro Bootcamp for 2021" taught by Dr. Angela Yu. I'm no beginner in programming (let alone python), but decided to follow her unique course from the very beginning as a "false" beginner to follow up any fundamental things that I might missed all this time.
