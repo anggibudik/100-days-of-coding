@@ -3,9 +3,9 @@
  
  I'm no beginner in the programming world (let alone Python, data science, and stuffs), but I decided to "inversely" challenge myself: follow her unique course from the very beginning as a <i>false beginner</i> to follow up any fundamental things that I might missed all this time.
 
-The course uses a collaborative online-based IDE repl.it, and my repls can be found <a href="https://repl.it/@anggibudik">here</a>.
+The course also uses a collaborative online-based IDE repl.it, and my repls can be found <a href="https://repl.it/@anggibudik">here</a> (p.s: this repo is not linked to repls for a certain reason).
 
-The content of the course [can be found here](https://github.com/appbrewery/100-days-of-python).
+The course's content [can be found here](https://github.com/appbrewery/100-days-of-python).
 
-This repository will be followed up by other upcoming repositories of the course-related projects. The list will be made here soon.
-
+This repository will be updated on daily basis based on the progress, following the course style.
+It will also be followed up by other upcoming repositories of the course-related projects later. The list will be made here soon.
