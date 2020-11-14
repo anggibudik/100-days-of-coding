@@ -1,9 +1,11 @@
-'''
-    Tip Calculator
-    
-    Final Goal of "Day 2" Lesson
-    100 Days of Code - Udemy Lecture by Dr. Angela Yu
-'''
+###########################################################
+#
+#    Tip Calculator (by AnggiBK)
+#    
+#    Final Goal of "Day 2" Lesson
+#    100 Days of Code - Udemy Lecture by Dr. Angela Yu
+#
+###########################################################
 
 print("Welcome to the tip calculator! (by AnggiBK)")
 bill = input("What was the total bill? $")

@@ -1,10 +1,12 @@
-'''
-    "Your Life in Weeks"
-    How many days, weeks, or months do you have before turning to 90?
-    
-    One Exercise Topic of "Day 2" Lesson
-    100 Days of Code - Udemy Lecture by Dr. Angela Yu
-'''
+########################################################################
+#
+#    Your Life in Weeks (by AnggiBK)
+#    How many days, weeks, or months do you have before turning to 90?
+#    
+#    One Exercise Topic of "Day 2" Lesson
+#    100 Days of Code - Udemy Lecture by Dr. Angela Yu
+#
+########################################################################
 
 age = int(input("What is your current age? "))
 age_90 = 90 - age

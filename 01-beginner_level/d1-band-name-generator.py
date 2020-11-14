@@ -1,9 +1,11 @@
-'''
-    Band Name Generator
-
-    Final Goal of "Day 1" Lesson
-    100 Days of Code - Udemy Lecture by Dr. Angela Yu
-'''
+########################################################
+#
+#    Band Name Generator (by AnggiBK)
+#
+#    Final Goal of "Day 1" Lesson
+#    100 Days of Code - Udemy Lecture by Dr. Angela Yu
+#
+########################################################
 
 print("Welcome to the band name generator! (by AnggiBK)")
 city = input("What's the name of the city you grew up in?\n")
