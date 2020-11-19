@@ -7,6 +7,8 @@ Note 1:
     Programmers [is better to] always start with 0 to avoid confusion,
     because we also work with binary data which starts from 0.
     (true enough! Surely challenging at the beginning for multi-languages user like me)
+    Another explanation is that it has something to do with offsetting position.
+    Say, the very beginning of something (e.g: list) has no offset value on it, hence called 0.
 Note 2:
     It turns out python can use underscore in between the thousands as if it's a comma/point separator,
     so human be able to visualize it easily.
@@ -33,3 +35,5 @@ Note 6:
     F-string is very handy to convert many data types into string (just like in MATLAB dude. Don't you remember?)
 Note 7:
     [REMINDER 2] count() function will give us the number of times a letter/character occurs in a string.
+Note 8:
+    Negative index counts from the end of the list in "opposite direction", starts from 1

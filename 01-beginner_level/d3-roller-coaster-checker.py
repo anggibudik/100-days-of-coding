@@ -1,6 +1,6 @@
 ########################################################
 #
-#    Roller Coaster Checker and Ticket Price
+#    Roller Coaster Checker and Ticket Price (by AnggiBK)
 #    
 #    This code is the summary of "Day 3" Lessons
 #    100 Days of Code - Udemy Lecture by Dr. Angela Yu

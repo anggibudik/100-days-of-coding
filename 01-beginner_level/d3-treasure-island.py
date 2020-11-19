@@ -6,7 +6,7 @@
 #    100 Days of Code - Udemy Lecture by Dr. Angela Yu
 #
 #    Note:
-#       1. This code uses random library in some case, which haven't taught in the lesson
+#       1. This code uses random library in some case, which haven't taught in the lesson yet
 #       2. I normally create functions and more variables for this kind of project,
 #           especially since I created the same scenario under some choices.
 #           But for now I write them in a very "basic" way to make it easier for any

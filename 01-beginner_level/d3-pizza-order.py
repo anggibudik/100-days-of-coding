@@ -1,6 +1,6 @@
 ########################################################
 #
-#    Pizza Order Bill Calculator
+#    Pizza Order Bill Calculator (by AnggiBK)
 #    
 #    One Exercise Topic of "Day 3" Lesson
 #    100 Days of Code - Udemy Lecture by Dr. Angela Yu
